@@ -1,0 +1,157 @@
+body{
+    font-family: "Montserrat";
+}
+#aboutus-body{
+    padding: 100px;
+    text-align: justify;
+    font-family: "Montserrat";
+}
+#title{
+    background-color: #71412C;
+    color: #fff;
+}
+h1 {  
+    font-family: "Montserrat-Black";  
+    font-size: 3.5rem;  
+    line-height: 1.5;  
+}
+h2{
+    font-family: "Montserrat-Bold";
+    font-weight: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    font-size: 1.5%;
+    font-weight: bold;
+}
+p{
+    color: #8f8f8f;
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+.nav-link{
+    font-family: "Montserrat";
+}
+.search-button{
+    margin: 5% 3% 5% 0%;
+}
+.title-image{
+    width: 30%;
+    height: 35%;
+    transform: rotate(360deg);
+    position: absolute;
+    right: 3%;
+}
+
+#features{
+    padding: 7% 15%;
+    font-family: "Montserrat";
+    position: relative;
+}
+#blog{
+    padding: 5% 10%;
+    font-family: "Montserrat";
+}
+#contact{
+    padding: 5% 10%;
+    font-family: "Montserrat";
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    color: #B06C49;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #71412C;
+}
+#testimonial{
+    text-align: center;
+    background-color: #B06C49;
+    color: #fff;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 3%;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#highlight_of_the_day{
+    padding: 2% 5%;
+    background-color: #B06C49;
+    color: #fff;
+    text-align: center;
+}
+.highlight_of_the_day-image{
+    width: 100%;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+#sponsors{
+    text-align: center;
+    margin-top: 3%;
+}
+
+.sponsors-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.nav-item.dropdown{
+    font-family: "Montserrat";
+}
+#services{
+    font-family: "Montserrat";
+    text-align: center;
+    padding: 100px;
+}
+.card{
+    background-color: #B06C49;
+}
+.services-column{
+    padding: 3% 2%;
+}
+.card-body{
+    color: #B06C49;
+}
+#footer{
+    padding: 100px;
+    font-family: "Montserrat";
+    background-color:#71412C;
+    color: #fff;
+}
+.footer-column{
+    padding: 3% 2%;
+}
+#footer-layout{
+    text-align: center;
+    color: #fff;
+}
+.foot-g{
+    color: #fff;
+}
+@media (max-width: 1028px) {
+
+    .title-image{
+        position: static;
+        height: auto;
+        width: 60%;
+        text-align: center;
+    }
+}
+
+
