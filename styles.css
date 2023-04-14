@@ -158,6 +158,10 @@ p{
         padding: 7% 10% 3% 3%;
     }
 
+    .footer-column{
+        padding: 100%;
+    }
+
     #footer-layout{
         margin-left: 5px;
     }
