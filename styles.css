@@ -161,6 +161,12 @@ p{
     .footer-column{
         padding: 0.5% 0.5%;
     }
+    #footer{
+        padding: 100px;
+        font-family: "Montserrat";
+        background-color:#71412C;
+        color: #fff;
+    }
 
     .services-column{
         padding: 0.5% 0.5%;
