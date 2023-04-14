@@ -163,9 +163,13 @@ p{
     }
     #footer{
         padding: 100px;
+        margin-left: 5px;
         font-family: "Montserrat";
         background-color:#71412C;
         color: #fff;
+    }
+    #footer-layout{
+        margin-left: 5px;
     }
 
     .services-column{
