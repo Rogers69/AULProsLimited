@@ -147,7 +147,7 @@ p{
 @media (max-width: 1028px) {
 
     #aboutus-body{
-        padding: 100;
+        padding: 100%;
         text-align: justify;
         font-family: "Montserrat";
     }
@@ -163,7 +163,6 @@ p{
     }
     #footer{
         padding: 100px;
-        margin-left: 5px;
         font-family: "Montserrat";
         background-color:#71412C;
         color: #fff;
